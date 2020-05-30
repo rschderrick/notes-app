@@ -1,3 +1,3 @@
-const getNotes = () => 'Your notes....';
+const getNotes = () => 'Your notes...';
 
 module.exports = getNotes;
